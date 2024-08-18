@@ -1,7 +1,8 @@
 # Hello there 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/336301531/original/0aec6899d80f31dd61162f2db856cca394ec2486/do-full-stack-web-development-using-mern-stack-react-node.png)
+
+
 
 ## :mailbox: Reach me out
 
@@ -37,11 +38,10 @@
 
 
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🔭 I’m working - In Flex Softr. 
+### 🌱 I’m exploring - Next Js. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
 
 
 <br />
