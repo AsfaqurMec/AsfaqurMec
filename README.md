@@ -20,6 +20,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 
 </p>
 <p align="center">
