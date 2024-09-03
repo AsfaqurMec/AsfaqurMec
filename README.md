@@ -39,7 +39,7 @@
 
 
 
-### 🔭 I’m working - In Flex Softr. 
+### 🔭 I’m working - In Flex Softr as a React Js Developer> 
 ### 🌱 I’m exploring - Next Js. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 
