@@ -2,7 +2,7 @@
 
 # Asfaqur Rahman Hamim
 
-**React Developer · Full‑Stack (MERN) · Building fast, reliable web apps**
+**Jr. Full-Stack Developer · Full‑Stack (MERN) · Building fast, reliable web apps**
 
 [LinkedIn](https://www.linkedin.com/in/asfaqur-rahman-hamim) · [Facebook](https://www.facebook.com/asfaqur.rahman.735)
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I’m a **React.js developer** focused on clean UI, solid architecture, and maintainable code. I work across the **MERN** stack—**MongoDB, Express, Node.js, React**—and I’m comfortable taking features from idea to production.
+I’m a **Jr. Full-Stack Developer** focused on clean UI, solid architecture, and maintainable code. I work across the **MERN** stack—**MongoDB, Express, Node.js, React**—and I’m comfortable taking features from idea to production.
 
 **What I bring:** responsive interfaces, component-driven design, REST APIs, authentication flows, and performance-minded frontends.
 
@@ -39,7 +39,7 @@ I’m a **React.js developer** focused on clean UI, solid architecture, and main
 
 | | |
 | --- | --- |
-| **Role** | React.js Developer at **Flex Softr** |
+| **Role** | Jr. Full-Stack Developer at **Flex Softr** |
 | **Exploring** | **Next.js** (App Router, SSR/SSG, performance) |
 | **Open to** | **Open source** collaboration and interesting product work |
 
